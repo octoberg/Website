@@ -1,4 +1,4 @@
-## Hello There
+## Hello There :)
 Check out my projects!
 
 <!--
