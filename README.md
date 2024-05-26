@@ -1,7 +1,7 @@
 ## Hi - check out what I've been working on!
-My personal website: coldenjohnson.github.io/ColdenJohnson
+[My personal website](https://coldenjohnson.github.io/ColdenJohnson/)
 
-LinkedIn: linkedin.com/in/colden-johnson
+[LinkedIn](https://www.linkedin.com/in/colden-johnson/)
 
 <!--
 **ColdenJohnson/ColdenJohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
