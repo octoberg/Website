@@ -1,5 +1,4 @@
-## Hello There :)
-Check out my projects!
+## Hello - Check out what I've been working on!
 
 <!--
 **ColdenJohnson/ColdenJohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
