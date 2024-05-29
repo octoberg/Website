@@ -1,5 +1,5 @@
 ## Hi - check out what I've been working on!
-[My personal website]((https://octoberg.github.io/Website/))
+[My personal website](https://octoberg.github.io/Website/)
 
 [LinkedIn](https://www.linkedin.com/in/maxwell-bergen-858317226/)
 
