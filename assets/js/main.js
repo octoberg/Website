@@ -248,3 +248,19 @@
 			._parallax();
 
 })(jQuery);
+
+
+// JavaScript to generate sparkles
+
+document.addEventListener('DOMContentLoaded', () => {
+    const sparkleContainer = document.querySelector('.sparkles');
+    const createSparkle = () => {
+        const sparkle = document.createElement('div');
+        sparkle.className = 'sparkle';
+        sparkle.style.top = `${Math.random() * 100}%`;
+        sparkle.style.left = `${Math.random() * 100}%`;
+        sparkleContainer.appendChild(sparkle);
+        setTimeout(() => sparkle.remove(), 2000);
+    };
+    setInterval(createSparkle, 100);
+});
